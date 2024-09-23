@@ -1,0 +1,16 @@
+1													
+cs437	1	1												
+Egamma	to	probability	p_gamma											
+500.0	gnd	1.0	1.0																			
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

@@ -1,0 +1,2 @@
+export $PATH=/home/dnishimu/g4work/cloversim_2/cloversim/install/bin:$PATH
+export $LD_LIBRARY_PATH=/home/dnishimu/g4work/cloversim_2/cloversim/install/lib:$LD_LIBRARY_PATH
