@@ -229,7 +229,7 @@ void Sh13DetectorConstruction::ConstructDetector()
    // Ge1 Cup2 Side Volume
    G4Tubs *Ge1Cup2Outer = new G4Tubs("OuterCup", 0, Ge1Cup2OuterDiameter/2, Ge1Cup2Height/2, 0, 360. *deg);
    G4Tubs *Ge1Cup2Inner = new G4Tubs("InnerCup", 0, Ge1Cup2InnerDiameter/2, Ge1Cup2Height/2, 0, 360. *deg);
-   G4SubtractionSolid *Ge1Cup2Side = new G4SubtractionSolid("Ge1Cup2Side", Ge1Cup2Outer)
+   G4SubtractionSolid *Ge1Cup2Side = new G4SubtractionSolid("Ge1Cup2Side", Ge1Cup2Outer);
 
 
 
